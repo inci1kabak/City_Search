@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.turkishproperties.com.tr/wp-content/uploads/2021/05/bursa.jpg",
+        "title": "BURSA",
+        "Description": "Nüfus bakımından İstanbul, Ankara ve İzmir'in ardından Türkiye'nin 4. Büyük kentidir."
+    },
+    {
+        "id": 2,
+        "image": "https://www.civitatis.com/blog/wp-content/uploads/2024/03/shutterstock_291252509-scaled.jpg",
+        "title": "İSTANBUL",
+        "Description": "Ekonomik, tarihî ve sosyo-kültürel açıdan önde gelen şehirlerden biridir. Şehir, iktisadi büyüklük açısından dünyada 34. sırada yer alır. "
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.turkishairlines.com/m/1bf1796c02cbbe29/original/FromIzmir-1400x600-Hero.jpg",
+        "title": "İZMİR",
+        "Description": "İzmir, Türkiye'de Ege Bölgesi'nde yer alan ve İzmir ilinin merkezi olan şehirdir. Ülkenin nüfus bakımından en kalabalık üçüncü şehridir."
+    },
+    {
+        "id": 4,
+        "image": "https://cdnp.flypgs.com/files/Sehirler-long-tail/Ankara/ankara-gezilecek-yerler-anitkabir.jpg",
+        "title": "ANKARA",
+        "Description": "Ankara, Türkiye'nin başkenti ve Ankara ilinin merkezi olan şehirdir. Coğrafi olarak Türkiye'nin merkezine yakın bir konumda bulunur ve İç Anadolu Bölgesi'nde yer alır."
+    },
+    {
+        "id": 5,
+        "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2019/03/12/thumbs_b_c_cddfd82e689c82650df37d47e981b2a2.jpg",
+        "title": "ÇANAKKALE",
+        "Description": "Çanakkale, Türkiye'nin Çanakkale ilinin merkezi olan şehirdir. Anadolu'nun kuzeybatısında, Çanakkale Boğazı'nın güneydoğusunda yer alır."
+    },
+    {
+        "id": 6,
+        "image": "https://www.azgezmis.com/uploads/otel-fiyatlari-800x534.jpg",
+        "title": "BALIKESİR",
+        "Description": "Tarihte genellikle Misya ve Karesi adlarıyla bilinen Balıkesir yöresi, zamanla Roma, Bizans, Anadolu Selçuklu, Karesi Beyliği ve Osmanlı egemenliğinde kalmıştır."
+    },
+    {
+        "id": 7,
+        "image": "https://d3rh8btizouuof.cloudfront.net/images/sehir/eskisehir.jpg",
+        "title": "ESKİŞEHİR",
+        "Description": "Eskişehir, Türkiye'nin Eskişehir ilinin merkezi olan şehirdir. 1993 yılında çıkarılan kanunla Büyükşehir Belediyesi olmuştur. Ortasından Porsuk Çayı geçen şehir, Avrupai tarzdadır."
+    },
+    {
+        "id": 8,
+        "image": "https://www.guvenvillas.com.tr/assets/images/blog/big/Antalya-gezi-Rehberi_1.jpg",
+        "title": "ANTALYA",
+        "Description": "Antalya, Antalya ilinin merkezi olan şehirdir. Türkiye'de turizmin başkenti olarak görülür. Özellikle yaz aylarında turist sayısı artar. "
+    },
+    {
+        "id": 9,
+        "image": "https://www.muglaturk.com/files/uploads/news/default/20240405-muglada-yaz-aylarinda-gidilmesi-gereken-5-yer-343472-6fa303b02640c73c76fc.webp",
+        "title": "MUĞLA",
+        "Description": "Muğla, Türkiye'nin Muğla ilinin merkezi olan şehirdir."
+    },
+    {
+        "id": 10,
+        "image": "https://cdn2.enuygun.com/media/lib/375x300/uploads/image/anamur-mamure-castle-60092.webp",
+        "title": "MERSİN",
+        "Description": "Mersin, Türkiye'nin güneyinde Akdeniz kıyısında büyük bir şehir ve limandır."
+    }
+]
